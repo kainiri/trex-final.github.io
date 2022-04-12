@@ -1,1 +1,2 @@
-# trex-final.github.io
+# trex-ultimo
+trex para o thunkable
